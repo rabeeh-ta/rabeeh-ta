@@ -11,8 +11,8 @@ I am a self taught Web Developer / Programmer for the past 3 years and is still 
 - [twitter](https://www.instagram.com/rabeeh_ta/)
 
 
-``` cpp
-  
+``` cpp 
+  // one quote that i live by
   while(life)
     learn();
 
