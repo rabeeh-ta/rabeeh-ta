@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabeeh</h1>
 
 ![profile](./img.jpg)
+<img align="center" widht="250px"  src="./img.jpg">
 
 I am a self taught Web Developer / Programmer for the past 3 years and is still learning for the long run. I have my expertise in HTML, CSS, JS and some other frameworks like Vue.js and Flutter, also do code C++ for my DIY projects.
 
