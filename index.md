@@ -11,12 +11,12 @@ I am a self taught Web Developer / Programmer for the past 3 years and is still 
 - [twitter](https://www.instagram.com/rabeeh_ta/)
 
 
-`` python
+``` cpp
   
   while(life)
     learn();
 
-``
+```
 
 ### My tools
 
