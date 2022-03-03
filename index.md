@@ -7,7 +7,16 @@ I am a self taught Web Developer / Programmer for the past 3 years and is still 
 ## find me on the internet
 
 - [github](https://github.com/rabeeh-ta)
-- [twitter](https://twitter.com/rabeeh-ta)
+- [twitter](https://twitter.com/rabeeh_ta)
+- [twitter](https://www.instagram.com/rabeeh_ta/)
+
+
+`` python
+  
+  while(life)
+    learn();
+
+``
 
 ### My tools
 
